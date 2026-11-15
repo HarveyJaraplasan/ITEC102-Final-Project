@@ -1,1 +1,2 @@
-# bscs-ccs-lspu-spcc-ITEC102-Final-Project
+# ITEC102-Final-Project
+By: Harvey O. Jaraplasan, Dwane C. Garcia, Aldrin S. Mendoza
